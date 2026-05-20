@@ -1,0 +1,1 @@
+Convolutional Neural Networks (CNN) repository featuring implementations of various CNN architectures for image classification, object detection, and other computer vision tasks. Aims to provide clear code examples, experiments, and resources for building and training CNNs
