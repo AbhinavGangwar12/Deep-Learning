@@ -2,3 +2,5 @@ checkpoints/
 Images/
 captions.txt
 *.data*
+data/
+data/*
